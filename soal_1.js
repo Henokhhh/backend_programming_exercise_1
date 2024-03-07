@@ -8,7 +8,7 @@ function prima(num) {
 }
 
 for(var i = 0; i < 1000; i++){
-    if(prima(i)) console.log(I);
+    if(prima(i)) console.log(i);
     
     
 }
